@@ -1,0 +1,15 @@
+C:\console-chat-application\chatService\server\bin\Debug\net6.0\server.exe
+C:\console-chat-application\chatService\server\bin\Debug\net6.0\server.deps.json
+C:\console-chat-application\chatService\server\bin\Debug\net6.0\server.runtimeconfig.json
+C:\console-chat-application\chatService\server\bin\Debug\net6.0\server.dll
+C:\console-chat-application\chatService\server\bin\Debug\net6.0\server.pdb
+C:\console-chat-application\chatService\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+C:\console-chat-application\chatService\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\console-chat-application\chatService\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+C:\console-chat-application\chatService\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+C:\console-chat-application\chatService\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+C:\console-chat-application\chatService\server\obj\Debug\net6.0\server.dll
+C:\console-chat-application\chatService\server\obj\Debug\net6.0\refint\server.dll
+C:\console-chat-application\chatService\server\obj\Debug\net6.0\server.pdb
+C:\console-chat-application\chatService\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+C:\console-chat-application\chatService\server\obj\Debug\net6.0\ref\server.dll

@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\chatService",
+    "\\chatService\\server"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\chatService",
   "PreviewInSolutionExplorer": false
 }
